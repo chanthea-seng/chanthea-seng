@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I’m Seng Chanthea
 
-<!--
-**chanthea-seng/chanthea-seng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a **4th-year student** in **Information Technology Engineering** at the **Royal University of Phnom Penh (RUPP)**.
 
-Here are some ideas to get you started:
+💼 Currently working as a **Server-Side Developer** at the **Ministry of Interior**, focusing on building scalable APIs and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+- **Languages**: Java
+- **Frameworks & Tools**: 
+  - **Backend**: Spring Boot REST APIs
+  - **Frontend**: Next.js
+  - **Mobile**: Flutter
+  - **DevOps**: Docker, DigitalOcean, NGINX, Vite, AWS, CI/CD, Kubernetes
+  - **Database**: MySQL, PostgreSQL, MongoDB
+  - **Others**: Git, Netlify, Firebase, Vercel, Payment Integrations
+
+---
+
+## 🌱 Interests & Learning
+
+- Web & Mobile App Development 
+- Cloud Infrastructure & DevOps 
+
+---
+
+## 📫 How to Reach Me
+
+- 📱 Telegram: [@chanthea_seng](https://t.me/chanthea_seng)
+- ✉️ Email: [chanthea.seng@dev.com](mailto:chanthea.seng@dev.com)
+
+---
+
+## 📌 Projects & Activities
+
+- 🎓 Year 4: **Ticket Gateway**  
+- 💼 Freelance: Building mobile & web solutions for local businesses  
+- 👨‍💻 GitHub: Actively sharing personal and academic projects  
+
+---
+
+> _"Stop wishing, let’s try out the first step"_
